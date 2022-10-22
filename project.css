@@ -7,7 +7,7 @@ body {
 nav {
 	overflow: hidden;
 	background-image: url('img/artworks.png');
-	padding-top: 10px;
+	padding-top: 20px;
 	padding-bottom: 10px;
 }
 
@@ -23,11 +23,11 @@ nav {
 	text-decoration: none;
 	float: right;
 	margin-right: 15px;
-	font-family: "Times New Roman", Sans-seif;
+	font-family: Times New Roman, Sans-seif;
 }
 
 .active {
-	color: green;
+	color: pink;
 }
 
 .bgImage {
@@ -46,8 +46,8 @@ nav {
 
 .container {
 	margin-right: 30px;
-	width: 400px;
-	height: 400px;
+	width: 100px;
+	height: 100px;
 	float: left;
 }
 
